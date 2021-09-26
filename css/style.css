@@ -35,3 +35,22 @@ ul {
 ol {
     list-style-type:decimal-leading-zero
 }
+
+.table {
+    border: 1px solid #000;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    text-align: left;
+}
+
+.table td {
+    padding: 5px 10px;
+    border: 1px solid #000
+}
+
+.table tfoot td {
+    text-align: right;
+}
