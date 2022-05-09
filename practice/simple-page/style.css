@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.page {
+
+    width: 800px;
+    margin: 20px, auto;
+}
+
+/* header */
+
+.header {
+    padding: 20px;
+    background-color: black;
+}
+
+.header-title {
+    margin: 0;
+
+    color: white;
+    text-align: center;
+}
+
+.header-subtitle {
+    margin: 0;
+
+    color: rgba(66, 124, 250, 1);
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+/*nav-link*/
+
+.nav-link {
+
+ display: inline-block;
+}
